@@ -1,0 +1,54 @@
+body {
+  margin: 0;
+  font-family: 'Merriweather', serif;
+}
+nav {
+  color: F982A6;
+}
+main{
+  display: flex;
+  flex-direction: row
+}
+.right {
+  display flex:
+  flex-direction:row;
+}
+h1 {
+  font-size: 90px;
+  margin-right: 50px;
+  margin-top: 0px
+}
+h1 {
+  font-size: 90px;
+}
+h1 {
+  font-size: 90px;
+}
+.fotosandra {
+  height: 516px;
+  width: 500px;
+}
+.intro {
+  display: flex;
+  flex-direction: column;
+  line-height: 25px;
+  font-size: 20px;
+  color: black;
+  text-align: left;
+  max-width: 600px;
+  }
+
+.nav{
+  display: flex;
+  justify-content: space-around;
+}
+
+.container{
+  display: flex;
+  justify-content: space-around;
+}
+.projects{
+  display: flex;
+  flex-direction: row;
+
+}
